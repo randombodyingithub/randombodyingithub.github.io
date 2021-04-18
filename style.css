@@ -11,3 +11,17 @@ body {
     align-items: center;
     background: #000;
 }
+
+  .Inferna {
+    cursor: url('./pointer.png'), auto;
+    color: white;
+  }
+
+  .jenap {
+    cursor: url('./pointer.png'), auto;
+    color: white;
+  }
+
+  .kedy {
+    color: white;
+  }
